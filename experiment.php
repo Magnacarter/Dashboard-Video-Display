@@ -1,14 +1,12 @@
 <?php
 /*
 Plugin Name: Dashboard Video Tutorial Plugin
-Plugin URI:  
+Plugin URI:  https://github.com/Magnacarter/Dashboard-Video-Display
 Description: Shows a video tut in the dashboard of WordPress admin
 Version:     1.0.0
 Author:      Adam Carter
 Author URI:  http://adamkristopher.com
-License:     GPL2
-License URI: 
-Domain Path: 
+License:     GPLv2+
 */
 
 include( plugin_dir_path( __FILE__ ) . 'includes/admin.php');
