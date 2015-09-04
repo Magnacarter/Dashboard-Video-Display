@@ -19,9 +19,6 @@ Display a tutorial video in your admin dashboard for your clients to watch.
 
 == Screenshots ==
 
-1. Customizable colors so the banner will compliment your website. Choose placement in the header or footer.
-2. Example of banner in the header.
-3. Example of banner in the footer.
 
 == Changelog ==
 
