@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Dashboard Video Tutorial Plugin
+Plugin Name: Dashboard Video Display
 Plugin URI:  https://github.com/Magnacarter/Dashboard-Video-Display
 Description: Shows a video tut in the dashboard of WordPress admin
 Version:     1.0.0
