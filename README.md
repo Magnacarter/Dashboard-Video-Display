@@ -15,8 +15,6 @@ Display a video in your dashboard for your clients to watch.
 
 Display a tutorial video in your admin dashboard for your clients to watch.
 
-Learn more at [http://uniceftapproject.org](http://uniceftapproject.org)
-
 **Development of this plugin is done [on GitHub](https://github.com/Magnacarter/dashboard-video-display). Pull requests welcome. Please see [issues](https://github.com/Magnacarter/dashboard-video-display/issues) reported there before going to the plugin forum.**
 
 == Screenshots ==
